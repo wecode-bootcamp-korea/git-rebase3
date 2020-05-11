@@ -3,9 +3,9 @@
         <tr>
           <td>선주</td>
           <td>선주</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>단비</td>
+          <td>단비</td>
+          <td>단비</td>
         </tr>
         <tr>
           <td>선주</td>
