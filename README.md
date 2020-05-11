@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>선주</td>
-          <td>선주</td>
-          <td>단비</td>
-          <td>재현2</td>
-          <td>재현2</td>
+          <td>양봉현</td>
+          <td>양봉현</td>
+          <td>양봉현</td>
+          <td>양봉현</td>
+          <td>양봉현</td>
         </tr>
         <tr>
-          <td>재현</td>
-          <td>재현</td>
-          <td>재현</td>
-          <td>재현</td>
-          <td>재현</td>
+          <td>양봉현</td>
+          <td>양봉현</td>
+          <td>양봉현</td>
+          <td>양봉현</td>
+          <td>양봉현</td>
         </tr>
       </tbody>
 </table>
